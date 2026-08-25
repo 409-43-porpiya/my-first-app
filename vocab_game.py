@@ -101,7 +101,6 @@ ans2 = st.text_input(
     value=st.session_state.ans2_val,
 )
 
-)
 
 # อัปเดตค่าล่าสุดเข้าตัวแปร (จุดที่ 7)
 st.session_state.ans1_val = ans1
